@@ -37,3 +37,8 @@ p{
 .item{
     text-align: center;
 }
+img{
+    mask-repeat: no-repeat;
+    height: 300px;
+    width: 250px;
+}
